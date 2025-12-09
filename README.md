@@ -12,12 +12,6 @@ ml-project-health-premium-prediction/
 ├── data/                          # Dataset(s)
 │   └── health_insurance.csv       # Sample dataset
 │
-├── notebooks/                     # EDA & modeling notebooks
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   └── 04_model_training.ipynb
-│
 ├── models/                        # Trained ML models
 │   └── premium_model.pkl
 │
